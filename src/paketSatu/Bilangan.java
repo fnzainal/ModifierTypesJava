@@ -1,5 +1,10 @@
 package paketSatu;
-
+/**
+ * 
+ * Modifier Types on Java
+ * @writer Zainal Fahrudin
+ * Pondok Programmer, 16 Oct 2015
+ */
 import paketDua.Angka;
 
 public class Bilangan {
